@@ -11,8 +11,9 @@ namespace PictureProcessing
         public Menus()
         {
             
-             ShowMenusList();
-             Console.WriteLine("按任意键退出程序");
+            ShowMenusList();
+            Console.WriteLine("按任意键退出程序");
+            Console.ReadLine();
 
         }
 
