@@ -11,7 +11,8 @@ namespace PictureProcessing
         public Menus()
         {
             
-              ShowMenusList();
+             ShowMenusList();
+             Console.WriteLine("按任意键退出程序");
 
         }
 
@@ -41,8 +42,6 @@ namespace PictureProcessing
                         break;
                 }
             }
-
-
         }
 
     }

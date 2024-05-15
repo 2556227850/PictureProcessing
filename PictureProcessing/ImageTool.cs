@@ -190,10 +190,5 @@ namespace PictureProcessing
             }
         }
 
-        public void Test()
-        {
-
-
-        }
     }
 }
